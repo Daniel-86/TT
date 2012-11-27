@@ -1,12 +1,12 @@
 
 # IDE support files
-/.classpath
-/.launch
-/.project
-/.settings
-/*.launch
-/*.tmproj
-/ivy*
+*.classpath
+*.launch
+*.project
+*.settings
+*.launch
+*.tmproj
+*ivy*
 /eclipse
 
 # logs
